@@ -30,7 +30,7 @@ Pri izboru hostinga imate više opcija, da platite hosting, da se otvori port na
 
 ![image](https://github.com/user-attachments/assets/8f1946e3-b1c0-4b8f-a039-00cbd70d7431)
 
-2. Upakovati ovih 5 .php fajlova u folder gde je instaliran XAMPP (po defaultu C:\xampp\htdocs)
+2. Upakovati ovih 4 .php fajlova u folder gde je instaliran XAMPP (po defaultu C:\xampp\htdocs)
 
 ![image](https://github.com/user-attachments/assets/6483e419-4aaa-4754-8086-73680181cba4)
 
