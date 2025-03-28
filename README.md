@@ -44,6 +44,8 @@ ssh -R 80:localhost:80 nokey@localhost.run
 
 (Server se gasi sa ctrl+c)
 
+![image](https://github.com/user-attachments/assets/dcbb2545-5bd2-4a0d-a5b7-b0511657b7e9)
+
 TO JE TO
 
 ## Security
